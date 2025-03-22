@@ -1,4 +1,4 @@
-package variable;
+package variable; // 패키지 선언 해줘야됨!
 
 public class Var1 {
     public static void main(String[] args) {
