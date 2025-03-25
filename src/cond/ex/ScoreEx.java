@@ -1,6 +1,6 @@
 package cond.ex;
 
-public class ScoreEx1 {
+public class ScoreEx {
     public static void main(String[] args) {
         int score = 85;
 

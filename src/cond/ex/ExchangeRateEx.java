@@ -1,6 +1,6 @@
 package cond.ex;
 
-public class ScoreEx3 {
+public class ExchangeRateEx {
     public static void main(String[] args) {
         int dollar = 2;
 
