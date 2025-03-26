@@ -1,3 +1,5 @@
+package variable;
+
 public class Var7 {
     public static void main(String[] args) {
         int a = 100; // a는 변수 100 은 literal , 변수의 값은 바뀔 수 있지만 리터럴은 안바뀜 , 100을 200으로 바꾸는것은 코드를 바꾸는 것이지 리터럴을 바꾸는 것은 아님
